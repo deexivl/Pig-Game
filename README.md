@@ -33,7 +33,7 @@ Include screenshots or GIFs of your Pig Game interface to showcase its design an
 
 ## Deployment
 
-The Pig Game is deployed on [Vercel](https://vercel.com/). Explore it [here](#insert-your-vercel-url).
+The Pig Game is deployed on [Vercel](https://vercel.com/). Explore it [here](https://pig-game-eight-tan.vercel.app/).
 
 ## Get Started Locally
 
@@ -54,4 +54,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Inspired by classic dice games.
-- Special thanks to [Vercel](https://vercel.com/) for deployment.
